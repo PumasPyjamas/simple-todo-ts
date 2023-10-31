@@ -2,14 +2,14 @@ body {
      background: #000; 
     padding: 10vh 10vw;
 }
-/* 
+ 
 li {
-   color: white; 
+   color: #9FE2BF; 
 }
 
 h1 {
-    color: white;
-} */
+    color: #AFE1AF;
+} 
 
 .form-check-input:before {
     content: "\00a0 "; 
